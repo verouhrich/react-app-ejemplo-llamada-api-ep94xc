@@ -1,0 +1,14 @@
+li {
+  list-style-type: circle; 
+  padding: 5%;
+}
+
+.marca {
+  font-size: larger;
+  color: darkblue
+}
+
+.modelo {
+  font-size: smaller;
+  padding: 1em
+}
